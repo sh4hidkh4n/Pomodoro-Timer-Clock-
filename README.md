@@ -1,6 +1,8 @@
-# stopwatch
+# Pomodoro Timer Clock
 
 > A Pomodoro clock project for Freecodecamp
+
+[Demo on Codepen](https://codepen.io/shahidkh4n/full/jwJaJW/)
 
 ## Build Setup
 
